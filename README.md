@@ -11,5 +11,5 @@ A full-stack C# WPF app for adopting puppies.
 ### 🐶 Dog Breeder Site (Java)
 A Java web app for adopting puppies.
 
-### 🪙 Treasure Chest Game (HTML/CSS/JS)
-A personal website showing off my projects and resume.
+### 🪙 Treasure Chest Game (C#)
+A C# guess the treasure chest game.
