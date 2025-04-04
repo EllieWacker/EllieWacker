@@ -6,10 +6,10 @@
 ## 📂 Featured Projects
 
 ### 🐶 Dog Breeder Site (C#)
-A full-stack C# desktop app for adopting puppies.
+A full-stack C# WPF app for adopting puppies.
 
-### 📋 Task Tracker (C#)
-A desktop app for managing to-do lists and priorities using WinForms.
+### 🐶 Dog Breeder Site (Java)
+A Java web app for adopting puppies.
 
-### 🌐 Portfolio Website (HTML/CSS/JS)
+### 🪙 Treasure Chest Game (HTML/CSS/JS)
 A personal website showing off my projects and resume.
