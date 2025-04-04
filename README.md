@@ -1,5 +1,5 @@
 # Hi, I'm Ellie Wacker 👋
-🎓 2nd-year Software Development student  
+🎓 2nd-year Software Development student at Kirkwood Community College
 💻 Passionate about Java, C#, Web Dev, and Databases  
 🚀 Always building and learning
 
