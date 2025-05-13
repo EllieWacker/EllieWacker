@@ -9,7 +9,28 @@
 <h2>📂 Featured Projects</h2>
 
 ### 🐶 [Dog Breeder Site (C#)](https://github.com/EllieWacker/DogBreeder)
-A full-stack C# WPF app for managing puppy adoptions.
+A complete puppy adoption management system built using C#. It includes:
+
+Desktop App (WPF):
+A user-friendly Windows Presentation Foundation (WPF) application that allows staff to manage puppies, adoptions, and users locally. Features include adding/editing/deleting puppy records, tracking adoption status, and managing user information.
+
+Web App (ASP.NET MVC):
+A responsive, full-stack web version of the system built using ASP.NET MVC. It mirrors the functionality of the desktop version, allowing remote access for users to view available puppies and admins to manage the database.
+
+Shared Backend:
+Both apps are powered by a shared C# business logic layer and database, promoting consistency and reducing code duplication.
+
+Technologies Used:
+
+C#
+
+WPF (MVVM pattern)
+
+ASP.NET MVC
+
+Entity Framework
+
+SQL Server
 
 ### 📚 [Library Application Form (HTML/JavaScript/CSS)](https://github.com/EllieWacker/html-library-application)  
 A user-friendly application form for a library, built with HTML, JavaScript, and CSS.
