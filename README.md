@@ -12,7 +12,7 @@
 A complete puppy adoption management system built using C#. Including a desktop version built with Windows Presentation Foundation (WPF) and a web version built using ASP.NET MVC.
 
 ### 🐕 [Dog Breeder Site (Java)](https://github.com/EllieWacker/wacker-project)
-A Java-based version of my dog breeder site! Built with Java Servlets and JSP, this user-friendly web app allows visitors to browse adoptable dogs, with features like dynamic content rendering, form handling, and server-side logic.
+A Java-based version of my dog breeder site! Built with Java Servlets and JSP. This user-friendly web app allows visitors to browse adoptable dogs, with features like dynamic content rendering, form handling, and server-side logic.
 
 ### 🍦 [Stitch Website (HTML/JavaScript/CSS)](https://github.com/EllieWacker/StitchWebsite)  
 A fun website all about Stitch! Featuring an interactive ice cream game and a quiz! I built this in high school with HTML, JavaScript, and CSS.
