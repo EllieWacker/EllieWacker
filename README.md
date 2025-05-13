@@ -14,5 +14,5 @@ A complete puppy adoption management system built using C#. Including a desktop 
 ### 🍦 [Stitch Website (HTML/JavaScript/CSS)](https://github.com/EllieWacker/StitchWebsite)  
 A fun website all about Stitch! Featuring an interactive ice cream game and a quiz! I built this in high school with HTML, JavaScript, and CSS.
 
-### 🪙 [Treasure Chest Game (C#)](https://github.com/EllieWacker/TreasureGame)
-A fun C# game where players guess the correct treasure chest to win!
+### 🐕 [Dog Breeder Site (Java)](https://github.com/EllieWacker/wacker-project)
+A Java-based version of my dog breeder site! Built with Java Servlets and JSP, this user-friendly web app allows visitors to browse adoptable dogs, with features like dynamic content rendering, form handling, and server-side logic.
